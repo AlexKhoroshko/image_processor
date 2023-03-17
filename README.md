@@ -1,6 +1,6 @@
 # Image Processor
 
-This project provides a simple image processing service that can be used to resize, crop, and apply various filters to images.
+This project provides a simple image processing service for recognizing text from images
 
 ## Requirements
 
