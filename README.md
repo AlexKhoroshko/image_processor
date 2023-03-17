@@ -17,7 +17,8 @@ cd image_processor
 ### Start the services using Docker Compose:
 docker-compose up --build
 
-The web service will be available at http://0.0.0.0:9292. You can use the following endpoints to process images:
+The web service will be available at http://0.0.0.0:9292. 
+You can use the following endpoints to process images:
 POST /process_image: Processes an image using the specified operations.
 Format of the request coming example:
 {
