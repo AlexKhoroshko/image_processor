@@ -27,7 +27,6 @@ Text from image can be viewed in logs.
 Format of the request coming example:
 
 {
-“fileUrl”:
-“https://previews.123rf.com/images/happyroman/happyroman1611/happyroman16110000
-4/67968361-atm-transaction-printed-paper-receipt-bill-vector.jpg”
+"fileUrl":
+"https://previews.123rf.com/images/happyroman/happyroman1611/happyroman161100004/67968361-atm-transaction-printed-paper-receipt-bill-vector.jpg"
 }
