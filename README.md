@@ -22,6 +22,7 @@ The web service will be available at http://0.0.0.0:9292.
 You can use the following endpoints to process images:
 
 POST /process_image: Processes an image using the specified operations.
+Text from image can be viewed in logs.
 
 Format of the request coming example:
 
